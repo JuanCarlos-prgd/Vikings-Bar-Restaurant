@@ -39,6 +39,9 @@ La página incluye:
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/JuanCarlos-prgd/Vikings-Bar-Restaurant.git
+
+---
+   
 📱 Responsividad
 En pantallas pequeñas:
 
